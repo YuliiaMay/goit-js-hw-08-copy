@@ -1,7 +1,7 @@
 {
   "name": "goit-js-hw-08",
   "version": "2.0.0",
-  "description": "",
+  "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
   "homepage": "https://YuliiaMay.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuliiaMay/goit-js-hw-08"
+    "url": "git+https://github.com/YuliiaMay/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Yuliia Maistrenko <yuliiamaystrenko@gmail.com>",
@@ -29,5 +29,6 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "main": "index.js"
 }
